@@ -10,3 +10,4 @@ current runes:
 - vault hunter
 - luxury
 - valentine
+- fallen angel
