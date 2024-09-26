@@ -1,2 +1,1 @@
-scoreboard objectives add test dummy
-tellraw @a {"text":"loaded, fag","bold":true,"color":"light_purple"}
+tellraw @s {"text":"runes loaded :3","bold":true,"color":"light_purple"}
