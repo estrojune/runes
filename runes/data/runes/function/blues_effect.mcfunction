@@ -1,0 +1,2 @@
+execute as @a[predicate=runes:is_sneaking_true] run particle minecraft:soul_fire_flame ~ ~0 ~ 0 0 0 0.05 100
+execute as @a[predicate=runes:is_sneaking_false] run particle minecraft:flame ~ ~0.2 ~ 2 0 2 0.1 10
