@@ -1,6 +1,6 @@
 {
     "description": "Fallen Angel",
-    "supported_items": "#minecraft:foot_armor",
+    "supported_items": "#minecraft:head_armor",
     "weight": 1,
     "max_level": 1,
     "min_cost": {
@@ -13,7 +13,7 @@
     },
     "anvil_cost": 0,
     "slots": [
-      "feet"
+      "head"
     ],
     "effects": {
       "minecraft:tick": [
