@@ -12,17 +12,5 @@
     "per_level_above_first": 0
   },
   "anvil_cost": 0,
-  "slots": [
-    "feet"
-  ],
-  "effects": {
-    "minecraft:tick": [
-      {
-        "effect": {
-          "type": "minecraft:run_function",
-          "function": "runes:luxury_effect"
-        }
-      }
-    ]
-  }
+  "slots": []
 }

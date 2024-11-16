@@ -1,0 +1,16 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "movement": {
+        "speed": {
+          "min": 15,
+          "max": 25
+        }
+      },
+      "flags": {
+        "is_flying": true
+      }
+    }
+  }
+  

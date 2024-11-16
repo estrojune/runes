@@ -4,7 +4,6 @@
   "predicate": {
     "flags": {
       "is_sprinting": true
-    },
-    "periodic_tick": 2
+    }
   }
 }
