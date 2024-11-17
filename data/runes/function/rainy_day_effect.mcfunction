@@ -1,1 +1,1 @@
-particle minecraft:falling_water ~ ~20 ~ 1 1.0 1 10 3
+execute if predicate runes:is_on_ground run particle falling_water ~ ~10 ~ 1 1.0 1 10 3
