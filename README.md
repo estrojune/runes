@@ -1,4 +1,4 @@
-adds boot enchantments, which just add particles that look cool, i guess
+adds cosmetic enchantments, which just add particles that look cool, i guess
 very simple to make lol
 
 current runes:
@@ -8,6 +8,7 @@ current runes:
 - happiest strider
 - subsonic
 - vault hunter
-- luxury
+- golden carpet
 - valentine
-- fallen angel
+- ~fallen angel~ fuck fallen angel all my homies hate fallen angel
+- lost
