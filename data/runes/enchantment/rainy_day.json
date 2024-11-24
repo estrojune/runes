@@ -1,5 +1,5 @@
 {
-  "description": "Rainy Day",
+  "description": { "text": "Rainy Day", "color": "gold"},
   "supported_items": "#minecraft:foot_armor",
   "weight": 1,
   "max_level": 1,

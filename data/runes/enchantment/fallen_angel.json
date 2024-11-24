@@ -1,5 +1,5 @@
 {
-    "description": "Fallen Angel",
+    "description": { "text": "Fallen Angel", "color": "dark_purple"},
     "supported_items": "#minecraft:head_armor",
     "weight": 1,
     "max_level": 1,

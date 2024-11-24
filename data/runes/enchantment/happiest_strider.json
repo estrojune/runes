@@ -1,5 +1,5 @@
 {
-  "description": "Happiest Strider",
+  "description": { "text": "Blaze Prince", "color": "gold"},
   "supported_items": "#minecraft:foot_armor",
   "weight": 1,
   "max_level": 1,

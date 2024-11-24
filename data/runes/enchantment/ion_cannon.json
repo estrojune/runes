@@ -1,5 +1,5 @@
 {
-    "description": { "text": "Lost", "color": "light_purple"},
+    "description": { "text": "Ion Cannon", "color": "light_purple"},
     "supported_items": "minecraft:elytra",
     "weight": 1,
     "max_level": 1,
@@ -20,7 +20,7 @@
         {
           "effect": {
             "type": "minecraft:run_function",
-            "function": "runes:lost_effect"
+            "function": "runes:ion_cannon_effect"
           }
         }
       ]
