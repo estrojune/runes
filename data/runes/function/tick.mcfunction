@@ -1,4 +1,5 @@
-scoreboard players add timers_holder timers 1
-scoreboard players operation timers_holder timers %= timer_interval timers
-execute if score timers_holder timers matches 20 run function #runes:effect_tag
-execute if score timers_holder timers matches 20.. run scoreboard players set timers_holder timers 1
+execute as @a[scores={glitter_effect_timer=..0}] run scoreboard players add @s glitter_effect_timer 1
+execute as @a[scores={glitter_effect_timer=8..}] run scoreboard players set @s glitter_effect_timer 7
+execute as @a run scoreboard players remove @s glitter_effect_timer 1
+execute as @a if score @s totalKillCount matches 1.. unless predicate runes:is_holding_glitter_weapon run scoreboard players add @s glitter_effect_timer 6
+execute as @a if score @s totalKillCount matches 1.. unless predicate runes:is_holding_glitter_weapon run scoreboard players set @s totalKillCount 0
