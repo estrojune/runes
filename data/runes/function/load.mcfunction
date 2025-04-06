@@ -4,5 +4,4 @@ scoreboard players reset @a totalKillCount
 scoreboard objectives add fireSpiralStandCheck dummy
 scoreboard players set @p fireSpiralStandCheck 0
 kill @e[tag=firespiral]
-kill @e[tag=casterAnchor]
 say meow!!! :3
