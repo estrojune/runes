@@ -1,6 +1,6 @@
 {
   "description": { "text": "Rainy Day", "color": "gold"},
-  "supported_items": "#minecraft:foot_armor",
+  "supported_items": "#minecraft:head_armor",
   "weight": 1,
   "max_level": 1,
   "min_cost": {

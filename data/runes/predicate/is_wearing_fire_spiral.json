@@ -7,7 +7,7 @@
           "predicates": {
             "minecraft:enchantments": [
               {
-                "enchantments": "runes:luxury"
+                "enchantments": "runes:fire_spiral"
               }
             ]
           }

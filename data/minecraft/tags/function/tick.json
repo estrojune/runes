@@ -1,6 +1,7 @@
 {
     "values": [
         "runes:glitter_effect_sound",
-        "runes:tick"
+        "runes:tick",
+        "runes:caster_tick"
     ]
 }
