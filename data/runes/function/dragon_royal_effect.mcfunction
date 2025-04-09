@@ -1,1 +1,1 @@
-execute unless predicate runes:is_flying if predicate runes:is_moving run particle minecraft:end_rod ~ ~0.2 ~ 0 0 0 0 1
+execute unless predicate runes:is_flying if predicate runes:is_moving run particle minecraft:end_rod ~ ~0.2 ~ 0 0 0 0 1 normal @a[tag=runesViewer]

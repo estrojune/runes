@@ -1,1 +1,1 @@
-particle minecraft:gust_emitter_large ~0 ~0 ~0 3 0 3 0.01 1
+particle minecraft:gust_emitter_large ~0 ~0 ~0 3 0 3 0.01 1 normal @a[tag=runesViewer]

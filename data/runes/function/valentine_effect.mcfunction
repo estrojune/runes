@@ -1,1 +1,1 @@
-execute unless predicate runes:is_flying run particle minecraft:heart ~ ~3 ~ 1 0.1 1 0.00001 1
+execute unless predicate runes:is_flying run particle minecraft:heart ~ ~3 ~ 1 0.1 1 0 1 normal @a[tag=runesViewer]

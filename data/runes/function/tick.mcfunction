@@ -1,5 +1,5 @@
-execute as @a[scores={glitter_effect_timer=..0}] run scoreboard players add @s glitter_effect_timer 1
-execute as @a[scores={glitter_effect_timer=8..}] run scoreboard players set @s glitter_effect_timer 7
-execute as @a run scoreboard players remove @s glitter_effect_timer 1
-execute as @a if score @s totalKillCount matches 1.. unless predicate runes:is_holding_glitter_weapon run scoreboard players add @s glitter_effect_timer 6
-execute as @a if score @s totalKillCount matches 1.. unless predicate runes:is_holding_glitter_weapon run scoreboard players set @s totalKillCount 0
+scoreboard players enable @a runesCheck
+execute if score @n runesCheck matches 1 run tag @n add runesCheck
+execute if score @n runesCheck matches ..0 run tag @n remove runesCheck
+execute if score @n runesCheck matches 2.. run scoreboard players set @n runesCheck 0
+execute if score @n runesCheck matches ..0 run scoreboard players set @n runesCheck 0
